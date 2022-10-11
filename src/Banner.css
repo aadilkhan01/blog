@@ -1,0 +1,61 @@
+.banner_logo{
+    background-image: url(./images/alesia-kazantceva-VWcPlbHglYc-unsplash.jpg);
+    background-position: center;
+    height: 400px;
+    width:auto;
+    background-size: cover;
+    object-fit: contain;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+.text{
+    padding: 120px;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+
+}
+.ss{
+    font-size: 30px;
+    font-weight: bold;
+}
+p{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 300;
+    
+}
+.banner_button{
+    padding: 14px 40px;
+    border-radius: 65px;
+    margin: 0px 0px 0px 20px;
+    background-color:rgb(98, 167, 223);
+    border-color: transparent;
+    color:white;
+    
+    
+}
+.banner_button:hover{
+    background-color:rgb(13, 132, 230);
+    color: white;
+
+
+}
+.banner2{
+    background-color: whitesmoke;
+    height: 400px;
+    width: auto;
+    margin-top: 75px;
+    margin-right: -10px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+    
+}
+  
+.companylogo{
+display: flex;
+gap: 5rem;
+margin-left: 200px;
+margin-top: 150px;
+}
